@@ -5,9 +5,13 @@ theme: cleanwhite
 enableRobotsTXT: true
 
 params:
-  header_image: images/banner.jpg
+  header_image: images/martin-katler-unsplash.jpg
   description: foobar
 
   addtional_menus:
   - title: CITIZENSHIP
     href: /citizenship/
+  #- title: RESOURCES
+  #  href: /resources/
+  #- title: EVENTS
+  #  href: /events/
