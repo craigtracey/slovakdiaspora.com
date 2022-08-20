@@ -1,0 +1,21 @@
+{
+  "language": "en,en-US",
+  "caseSensitive": false,
+  "dictionaries": [
+    "site-dictionary"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "site-dictionary",
+      "path": "./dictionary.txt"
+    }
+  ],
+  "files": [
+    "content/**/*.md"
+  ],
+  "languageSettings": [
+    {
+      "languageId": "markdown"
+    }
+  ]
+}

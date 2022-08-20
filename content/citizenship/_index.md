@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Citizenship by Descent Documents"
+title: "Citizenship by Descent"
 lastmod: "2022-08-19"
 tags: ["cbd"]
 ---
-
+After nearly a year of debate and deliberation, Slovak parliament finally passed the Slovak Citizenship Act on February 16, 2022. This legislation, notably, opens citizenship eligibility to children, grandchildren, and great-grandchildren of Slovak and Czechoslovak citizens who were born within the boundaries of modern-day Slovakia. This law wen
 
 
 ### Application for Slovak Residence Permit:
