@@ -1,0 +1,12 @@
+baseURL = 'https://slovakdiaspora.com/'
+languageCode = 'en-us'
+title = 'Slovak Diaspora'
+theme = 'cleanwhite'
+
+[params]
+  header_image = "images/banner.jpg"
+  description = "foobar"
+
+[[params.addtional_menus]]
+  title =  "CITIZENSHIP"
+  href =  "/citizenship/"
