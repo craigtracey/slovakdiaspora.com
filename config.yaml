@@ -1,0 +1,13 @@
+baseURL: https://slovakdiaspora.com/
+languageCode: en-us
+title: Slovak Diaspora
+theme: cleanwhite
+enableRobotsTXT: true
+
+params:
+  header_image: images/banner.jpg
+  description: foobar
+
+  addtional_menus:
+  - title: CITIZENSHIP
+    href: /citizenship/
